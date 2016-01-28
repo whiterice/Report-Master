@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Quote.tex
 
 [Frame0_View0,0]
-TopLine=42
-Cursor=2197
+TopLine=48
+Cursor=2334
 
 [Frame1]
 Flags=0
@@ -53,10 +53,10 @@ Class=LaTeXView
 Document=Sub.tex
 
 [Frame2_View0,0]
-TopLine=0
-Cursor=236
+TopLine=66
+Cursor=3452
 
 [SessionInfo]
 FrameCount=3
-ActiveFrame=2
+ActiveFrame=0
 
