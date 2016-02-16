@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Arc Flash.tex
 
 [Frame0_View0,0]
-TopLine=0
-Cursor=372
+TopLine=3
+Cursor=417
 
 [Frame1]
 Flags=0
@@ -35,8 +35,8 @@ Class=LaTeXView
 Document=CoverPage.tex
 
 [Frame1_View0,0]
-TopLine=0
-Cursor=40
+TopLine=13
+Cursor=669
 
 [Frame2]
 Flags=0
@@ -71,8 +71,8 @@ Class=LaTeXView
 Document=Results.tex
 
 [Frame3_View0,0]
-TopLine=6
-Cursor=1118
+TopLine=0
+Cursor=244
 
 [Frame4]
 Flags=0
@@ -89,8 +89,8 @@ Class=LaTeXView
 Document=Objectives.tex
 
 [Frame4_View0,0]
-TopLine=58
-Cursor=4693
+TopLine=77
+Cursor=4156
 
 [Frame5]
 Flags=0
@@ -107,8 +107,8 @@ Class=LaTeXView
 Document=Procedures.tex
 
 [Frame5_View0,0]
-TopLine=26
-Cursor=2667
+TopLine=21
+Cursor=2058
 
 [Frame6]
 Flags=0
@@ -148,5 +148,5 @@ Cursor=259
 
 [SessionInfo]
 FrameCount=8
-ActiveFrame=3
+ActiveFrame=0
 

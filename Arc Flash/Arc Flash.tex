@@ -12,6 +12,8 @@
 \usepackage{fmtcount}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
+\usepackage{comment}
+\usepackage{enumitem}
 
 %Prevents Tables from being repositioned
 \usepackage{float}
@@ -23,12 +25,14 @@
 %Bottom space
 \newcommand{\Botrule}{\rule[-1.2ex]{0pt}{0pt}}
 
+
+
 %Constants
 \newcommand{\DocTitle}{ARC FLASH HAZARD ANALYSIS}
-\newcommand{\Customer}{Fanshawe College}
-\newcommand{\Building}{Main Campus}
-\newcommand{\Address}{1001 Fanshawe College Blvd}
-\newcommand{\JobNum}{S2940\_01}
+\newcommand{\Customer}{Accuride Canada Inc. }
+\newcommand{\Building}{London Operations}
+\newcommand{\Address}{31 Firestone Blvd}
+\newcommand{\JobNum}{S2951}
 
 
 %hyperlinks
@@ -69,10 +73,13 @@ Tel: (519) 474-1175\\
   \renewcommand{\headrulewidth}{0pt}%
 }
 \fancyhead[L]{ % right
-   \includegraphics[height=0.4in]{Images/logo_SV3.PNG}
+   \includegraphics[height=0.4in]{../Images/PCEHeaderLogo.png}
 }
 
 \begin{document}
+
+%Setlists
+\setlist[enumerate]{itemsep=0mm}
 
 \pagenumbering{Alph}
 \include{CoverPage}
