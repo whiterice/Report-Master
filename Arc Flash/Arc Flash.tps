@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Arc Flash.tex
 
 [Frame0_View0,0]
-TopLine=51
-Cursor=2069
+TopLine=18
+Cursor=862
 
 [Frame1]
 Flags=0
@@ -72,7 +72,7 @@ Document=Results.tex
 
 [Frame3_View0,0]
 TopLine=0
-Cursor=590
+Cursor=297
 
 [Frame4]
 Flags=0
